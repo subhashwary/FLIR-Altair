@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lenses>
+  <Lens>
+    <Ref>L0515</Ref>
+    <Name>12mm F/3</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0504</Ref>
+    <Name>27mm F/3</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0506</Ref>
+    <Name>54mm F/3</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0309</Ref>
+    <Name>100mm F/3</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0510lc</Ref>
+    <Name>Close up x0.5</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0510</Ref>
+    <Name>Close up x1</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0605</Ref>
+    <Name>Close up x3</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0808</Ref>
+    <Name>Close up x5</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0315</Ref>
+    <Name>12mm F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0116</Ref>
+    <Name>25mm F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0106</Ref>
+    <Name>50mm F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0118</Ref>
+    <Name>100mm F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0114</Ref>
+    <Name>200mm F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0120</Ref>
+    <Name>Close up x1 F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0120E</Ref>
+    <Name>Close up x3 F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0306</Ref>
+    <Name>12mm F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0324</Ref>
+    <Name>25mm F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0302</Ref>
+    <Name>50mm F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0201</Ref>
+    <Name>100mm F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0113</Ref>
+    <Name>200mm F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0215</Ref>
+    <Name>Close up x1 F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0215E</Ref>
+    <Name>Close up x3 F/2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0709</Ref>
+    <Name>27mm F/3</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0608</Ref>
+    <Name>50mm F/3</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0604</Ref>
+    <Name>100mm F/3</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0701</Ref>
+    <Name>200mm F/3</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0519</Ref>
+    <Name>50mm F/2.2</Name>
+  </Lens>
+  <Lens>
+    <Ref>L0517</Ref>
+    <Name>100mm F/2.2</Name>
+  </Lens>
+</Lenses>
